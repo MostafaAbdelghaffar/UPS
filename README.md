@@ -49,20 +49,26 @@ That lead to the following schematic design:
 ## Schematic
 
 <p align="center">
-  <img src="V1.2/Schematic_white.png" alt="Description" width="50%">
+  <img src="V1.2/Schematic_White.png" alt="Description" width="50%">
 </p>
 
 
 ## PCB
 
 <p align="center">
-  <img src="V1.2/SPCB.png" alt="Description" width="50%">
+  <img src="V1.2/PCB_Top.png" alt="Description" width="50%">
 </p>
 
+<p align="center">
+  <img src="V1.2/PCB_Bottom.png" alt="Description" width="50%">
+</p>
 
 ## 3D PCB
 
 <p align="center">
-  <img src="V1.2/S3D_PCB.png" alt="Description" width="50%">
+  <img src="V1.2/3D_Top.png" alt="Description" width="50%">
 </p>
 
+<p align="center">
+  <img src="V1.2/3D_Bottom.png" alt="Description" width="50%">
+</p>
