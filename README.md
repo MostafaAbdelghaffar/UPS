@@ -30,7 +30,7 @@ The following is the initial design of the UPS Using back-to-back PMOS Transisto
 A simulation using LTSPice tool to simulate the circuit and make sure that it is working properly was done and the result can be viewed as following:
 
 <p align="center">
-  <img src="Sim/Simulation.png" alt="Description" width="50%">
+  <img src="Sim/Simulation.png" alt="Description" width="100%">
 </p>
 
 V1 and V2 are voltage supplies with piecewise linear (PWL) function to select different values to make sure that the Prioritised PowerPath Controller are working as intended.
@@ -50,7 +50,7 @@ That lead to the following schematic design:
 ## Schematic
 
 <p align="center">
-  <img src="V1.2/Schematic_White.png" alt="Description" width="50%">
+  <img src="V1.2/Schematic_White.png" alt="Description" width="100%">
 </p>
 
 
