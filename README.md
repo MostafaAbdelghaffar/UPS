@@ -9,22 +9,23 @@ The following is the initial design of the UPS Using back-to-back PMOS Transisto
 ## Schematic
 
 <p align="center">
-  <img src="V1/Schematic_white.png" alt="Description" width="50%">
+  <img src="V1/Schematic_white.png" alt="Description" width="100%">
 </p>
-
 
 ## PCB
 
 <p align="center">
-  <img src="V1/SPCB.png" alt="Description" width="50%">
+  <img src="V1/PCB.png" alt="Description" width="50%">
 </p>
 
 
 ## 3D PCB
 
 <p align="center">
-  <img src="V1/S3D_PCB.png" alt="Description" width="50%">
+  <img src="V1/3D_PCB.png" alt="Description" width="50%">
 </p>
+
+<hr>
 
 A simulation using LTSPice tool to simulate the circuit and make sure that it is working properly was done and the result can be viewed as following:
 
