@@ -7,7 +7,7 @@ PCB designing of a UPS (uninterrupted power source) made for taking 20V inputs f
 ## Schematic
 
 <p align="center">
-  <img src="Schematic_white.png" alt="Description" width="50%">
+  <img src="UPS/Schematic_white.png" alt="Description" width="50%">
 </p>
 
 
