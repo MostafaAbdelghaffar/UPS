@@ -37,7 +37,7 @@ V1 and V2 are voltage supplies with piecewise linear (PWL) function to select di
 The values were chosen to test all cases, switching between power source 1 and 2. and testing behaviour when the values exceed the max limit and decrease beneath the minimum limit.
 
 <p align="center">
-  <img src="Sim/Simulation_Result.png" alt="Description" width="50%">
+  <img src="Sim/Simulation_Result.png" alt="Description" width="100%">
 </p>
 
 <hr>
