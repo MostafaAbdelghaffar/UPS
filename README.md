@@ -2,7 +2,7 @@
 
 ## Introduction
 
-PCB designing of a UPS (uninterrupted power source) made for taking 20V inputs from two different sources and when plugging one then unplugging the other, that wouldn't hurt anything in the circuit at all. 
+PCB designing of a UPS (uninterrupted power source) made for taking 20V inputs from two different sources and when plugging one then unplugging the other, that wouldn't cause any sort of interruption.
 
 The following is the initial design of the UPS Using back-to-back PMOS Transistors and the common gate as well as the common gate-source are connected in the Prioritised PowerPath Controller.
 
